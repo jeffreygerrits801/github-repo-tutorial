@@ -1,0 +1,7 @@
+Dit is een Github textfile
+
+12345
+
+ABCDE
+
+801
